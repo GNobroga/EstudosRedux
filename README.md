@@ -8,5 +8,5 @@
 ```
 
 A equipe do Redux criou o @reduxjs/toolkit ele facilita o desenvolvimento
-e reduz a repeticao de constantes, actions creators, configuracao de
+e reduz a repetições de constantes, actions creators, configuracao de
 devtools, immer, redux-thunk etc.
